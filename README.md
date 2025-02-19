@@ -2,6 +2,7 @@
 
 Ce projet est une application de recettes développée en React Native, réalisée dans le cadre d'un projet scolaire d'une journée. L'objectif était de reproduire une application existante à partir de maquettes, en se concentrant sur la navigation, le style, et la gestion des données avec Redux.
 
+![Screenshots](screenshot.png)
 
 ## Table des Matières
 
